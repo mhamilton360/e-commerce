@@ -1,0 +1,5 @@
+package com.ims.productservice.entity;
+
+public class Product {
+
+}

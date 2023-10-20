@@ -1,0 +1,11 @@
+package com.ims.productservice.service;
+
+import com.ims.productservice.model.ProductRequest;
+
+public interface ProductService {
+
+	long addProduct(ProductRequest productRequest);
+
+	void getProductById(long id);
+	
+}

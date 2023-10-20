@@ -1,0 +1,10 @@
+package com.ims.orderservice.external.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name = "PRODUCT-SERVICE/product")
+public interface ProductService {
+	
+	
+
+}

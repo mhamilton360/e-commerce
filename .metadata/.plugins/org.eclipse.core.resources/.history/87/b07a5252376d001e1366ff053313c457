@@ -1,0 +1,8 @@
+package com.ims.orderservice.service;
+
+import com.ims.orderservice.model.OrderRequest;
+
+public interface OrderService {
+
+	void placeOrder(OrderRequest orderRequest);
+}

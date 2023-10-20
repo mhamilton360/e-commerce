@@ -1,0 +1,4 @@
+package com.ims.orderservice.service;
+
+public interface OrderService {
+}

@@ -1,0 +1,5 @@
+package com.ims.orderservice.service;
+
+public class OrderServiceImpl {
+
+}

@@ -1,0 +1,13 @@
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ims.productservice.entity.Product"><rhs name\="com.ims.productservice.entity.Product"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="com.ims.productservice.model.ProductResponse"><rhs name\="com.ims.productservice.model.ProductResponse"/></lhs><lhs name\="com.ims.productservice.model.ErrorResponse"><rhs name\="com.ims.productservice.model.ErrorResponse"/></lhs><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="java.time.temporal.Temporal"><rhs name\="java.time.Instant"/></lhs><lhs name\="java.time.temporal.TemporalAccessor"><rhs name\="java.time.Instant"/></lhs><lhs name\="java.time.temporal.TemporalAdjuster"><rhs name\="java.time.Instant"/></lhs><lhs name\="org.springframework.http.HttpStatusCode"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="com.fasterxml.jackson.core.Versioned"><rhs name\="com.fasterxml.jackson.databind.ObjectMapper"/></lhs><lhs name\="com.fasterxml.jackson.core.ObjectCodec"><rhs name\="com.fasterxml.jackson.databind.ObjectMapper"/></lhs><lhs name\="com.fasterxml.jackson.core.TreeCodec"><rhs name\="com.fasterxml.jackson.databind.ObjectMapper"/></lhs><lhs name\="com.fasterxml.jackson.databind.ObjectMapper"><rhs name\="com.fasterxml.jackson.databind.ObjectMapper"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="com.ims.orderservice.exception.CustomException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="com.ims.orderservice.exception.CustomException"/></lhs><lhs name\="com.ims.orderservice.external.response.ErrorResponse"><rhs name\="com.ims.orderservice.external.response.ErrorResponse"/></lhs><lhs name\="feign.codec.ErrorDecoder"><rhs name\="com.ims.orderservice.external.decoder.CustomErrorDecoder"/></lhs></history>
+content_assist_number_of_computers=15
+eclipse.preferences.version=1
+matchingBracketsColor=255,255,0
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+sourceHoverBackgroundColor=44,49,53
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: admin
+    password: passw0rd
+    url: jdbc:mysql://localhost:3306/employee_db
+  jpa:
+    hibernate:
+      ddlAuto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        formatSql: true
+    showSql: true

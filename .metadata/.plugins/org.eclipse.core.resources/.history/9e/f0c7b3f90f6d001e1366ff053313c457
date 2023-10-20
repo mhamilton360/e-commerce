@@ -1,0 +1,5 @@
+package com.ims.productservice.exception;
+
+public class ProductServiceCustomException {
+
+}

@@ -1,0 +1,5 @@
+package com.ims.productservice.service;
+
+public interface ProductService {
+
+}

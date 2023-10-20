@@ -1,0 +1,5 @@
+package com.ims.orderservice.external.client;
+
+public interface ProductService {
+
+}
